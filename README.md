@@ -15,7 +15,7 @@ The image is then resized to the desired output size.
 Using pyautoaui and pynput the array is itterated translating the colours onto the screen.
 
 
-## Is it not a copy of the image?
+### Is it not a copy of the image?
 
 Who knows but I think its more than just a carbon copy. Defining different brushes, different sizes and opacities creates an image that resembles the original but is not a copy. Its more like a representation of the original. 
 

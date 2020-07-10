@@ -29,6 +29,16 @@ Who knows but I think its more than just a carbon copy. Defining different brush
 
 [<img src="/painted_images/youtube.png">](https://www.youtube.com/watch?v=7w4nqVOsBeM)
 
+![Doggo](/painted_images/doggooggo.png)
+
+![Doggo1](/painted_images/dog3.jpg.png)
+
+![Countryside](/painted_images/countryside11.png)
+
+![Countryside2](/painted_images/countryside.png)
+
+![Beach](/painted_images/beach.png)
+
 ![Nebula](/painted_images/spacenebula.png)
 
 ![Savana](/painted_images/SAVANA.png)
